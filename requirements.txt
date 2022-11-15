@@ -17,3 +17,4 @@ dateparser >= 0.5.1
 pyowm >= 2.6.1
 whenareyou >= 0.1.0
 pytz >= 2016.10
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
